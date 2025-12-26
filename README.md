@@ -1,16 +1,78 @@
-# globalcvpro-privacy-policy
-Privacy Policy for the GlobalCV Pro Android application.
-Privacy Policy
-GlobalCV Pro
-Last updated: January 2025
-GlobalCV Pro (“we”, “our”, or “us”) values your privacy. This Privacy Policy explains how information is collected, used, and protected when you use the GlobalCV Pro mobile application.
-By using this application, you agree to the collection and use of information in accordance with this policy.
+Privacy Policy for GlobalCV Pro
+
+Effective Date: 27 December 2025
+
+GlobalCV Pro ("we", "our", or "us") operates the GlobalCV Pro mobile application (the "App").
+
+This page informs users about our policies regarding the collection, use, and disclosure of personal information for anyone using our App.
+
+By using GlobalCV Pro, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+
 Information We Collect
-Personal Information
-When you sign in using Google Sign-In, we may receive basic account information such as your name, email address, and profile picture. This information is used only for authentication and account identification.
-User-Provided Data
-The app allows users to create and manage CV/resume data. All information entered by the user is stored securely and is used only to provide app functionality.
-Automatically Collected Information
+
+Personal Information:
+- Name and profile information (if provided by the user)
+- Email address and Google account information (via Google Sign-In)
+
+Usage Data:
+- App usage behavior
+- Interaction with features
+- Crash logs and performance data
+
+User-Generated Content:
+- CV details entered by users (education, skills, experience, etc.)
+
+Audio Access:
+- The app may request microphone access for optional features. Audio data is not stored or shared.
+
+
+How We Use Information
+
+We use collected data to:
+- Provide and improve app functionality
+- Authenticate users via Google Sign-In
+- Save and sync CV data using Firebase Firestore
+- Improve user experience and performance
+- Display advertisements
+
+
+Third-Party Services
+
+GlobalCV Pro uses third-party services that may collect information used to identify you:
+
+- Google Firebase (Authentication, Firestore)
+- Google AdMob (Advertising)
+- Google Play Billing (In-app purchases)
+
+These services have their own privacy policies.
+
+
+Advertisements
+
+The app displays ads provided by Google AdMob. AdMob may use device identifiers and cookies to show relevant ads.
+
+Users may opt out of personalized advertising through their device settings.
+
+
+Data Security
+
+We value your trust in providing your personal information and strive to use commercially acceptable means of protecting it. However, no method of transmission over the internet is 100% secure.
+
+
+Children’s Privacy
+
+GlobalCV Pro does not knowingly collect personal information from children under the age of 13. If you believe a child has provided us with personal information, please contact us and we will remove it.
+
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Users are advised to review this page periodically for changes.
+
+
+Contact Us
+
+If you have any questions about this Privacy Policy, please contact us through the app support section.Automatically Collected Information
 We may collect certain information automatically, including:
 Device type and operating system
 App usage statistics
